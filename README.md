@@ -73,3 +73,4 @@ Join the #DataSciencein3Months channel in our [Slack](http://wizards.herokuapp.c
 
 ## Week 4 Kaggle Project #3
 - Try your best at a competition of your choice from [Kaggle](https://www.kaggle.com/competitions).
+testing
